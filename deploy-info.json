@@ -1,0 +1,9 @@
+{
+  "contractId": "SP20Z3WPE6PVN1B8APDQNDH5BR1AJNMR25QPCSGFT.letter-drop",
+  "deployer": "SP20Z3WPE6PVN1B8APDQNDH5BR1AJNMR25QPCSGFT",
+  "txid": "514a2fa3911057da08e19531b78b116e29104c9b685b3faf97a88197d6c18585",
+  "submittedAt": "2026-05-11T19:12:09.817Z",
+  "fee": "5000",
+  "clarityVersion": 4,
+  "explorer": "https://explorer.hiro.so/txid/514a2fa3911057da08e19531b78b116e29104c9b685b3faf97a88197d6c18585?chain=mainnet"
+}

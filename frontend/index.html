@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Letter Drop</title>
+<meta name="description" content="Letter Drop -- claim sequential letters from a cycling a..z drop on Stacks" />
+<meta name="talentapp:project_verification" content="<verification-tag-pending>">
+<style>
+  :root { color-scheme: dark; }
+  body {
+    font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+    background: #1a1208; color: #efe6d2;
+    max-width: 580px; margin: 0 auto; padding: 36px 18px;
+    line-height: 1.55;
+  }
+  h1 { font-size: 28px; margin-bottom: 6px; color: #f4b942; letter-spacing: 0.5px; }
+  p.tagline { color: #b59663; margin-top: 0; }
+  .card {
+    background: #2a1d0c; border: 1px solid #4a3a18; border-radius: 6px;
+    padding: 26px 22px; margin: 22px 0; text-align: center;
+  }
+  .big {
+    font-size: 64px; color: #f4b942; line-height: 1; margin: 14px 0;
+    letter-spacing: 2px;
+  }
+  .sub { color: #b59663; font-size: 12px; }
+  button {
+    background: #f4b942; color: #1a1208; border: 0; padding: 12px 26px;
+    border-radius: 5px; font-size: 15px; cursor: pointer; font-family: inherit; font-weight: 600;
+  }
+  button:disabled { opacity: 0.4; cursor: not-allowed; }
+  .row { display: flex; gap: 10px; justify-content: center; }
+  .addr, .log { font-size: 12px; color: #b59663; word-break: break-all; text-align: center; }
+  .log { margin-top: 16px; }
+  .log code { color: #efe6d2; background: #1a1208; padding: 2px 5px; border-radius: 3px; }
+  a { color: #f4b942; }
+</style>
+</head>
+<body>
+  <h1>Letter Drop</h1>
+  <p class="tagline">Claim the next letter from the cycling a..z drop.</p>
+
+  <div class="card">
+    <div class="sub">next letter</div>
+    <div class="big" id="next">?</div>
+    <div class="addr" id="who">not connected</div>
+  </div>
+
+  <div class="row">
+    <button id="connect">Connect Wallet</button>
+    <button id="claim" disabled>Claim</button>
+  </div>
+
+  <div class="log" id="log"></div>
+
+  <p class="addr" style="margin-top:32px;">
+    Contract: <a id="contractLink" target="_blank" rel="noopener"></a><br />
+    Network: Stacks Mainnet &middot; Clarity 4
+  </p>
+
+<script type="module">
+  import { showConnect, openContractCall } from "https://esm.sh/@stacks/connect@7.7.1";
+  import { PostConditionMode } from "https://esm.sh/@stacks/transactions@6.17.0";
+
+  const CONTRACT_ADDRESS = "SP20Z3WPE6PVN1B8APDQNDH5BR1AJNMR25QPCSGFT";
+  const CONTRACT_NAME    = "letter-drop";
+  const APP_NAME         = "Letter Drop";
+  const ALPHA            = "abcdefghijklmnopqrstuvwxyz";
+
+  const $ = (id) => document.getElementById(id);
+  $("contractLink").href = `https://explorer.hiro.so/${CONTRACT_ADDRESS}.${CONTRACT_NAME}?chain=mainnet`;
+  $("contractLink").textContent = `${CONTRACT_ADDRESS}.${CONTRACT_NAME}`;
+
+  fetch(`https://api.hiro.so/v2/contracts/call-read/${CONTRACT_ADDRESS}/${CONTRACT_NAME}/peek-next`, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ sender: CONTRACT_ADDRESS, arguments: [] }),
+  }).then((r) => r.json()).then((j) => {
+    const m = (j.result || "").match(/0x([0-9a-f]+)/);
+    if (!m) return;
+    const n = parseInt(m[1].slice(2), 16);
+    if (n >= 1 && n <= 26) $("next").textContent = ALPHA[n - 1].toUpperCase();
+  }).catch(() => {});
+
+  $("connect").onclick = () => {
+    showConnect({
+      appDetails: { name: APP_NAME, icon: window.location.origin + "/icon.png" },
+      onFinish: ({ userSession }) => {
+        const ud = userSession.loadUserData();
+        $("who").textContent = "you: " + ud.profile.stxAddress.mainnet;
+        $("claim").disabled = false;
+      },
+    });
+  };
+
+  $("claim").onclick = () => {
+    openContractCall({
+      contractAddress: CONTRACT_ADDRESS,
+      contractName:    CONTRACT_NAME,
+      functionName:    "claim",
+      functionArgs:    [],
+      postConditionMode: PostConditionMode.Allow,
+      network: "mainnet",
+      appDetails: { name: APP_NAME, icon: window.location.origin + "/icon.png" },
+      onFinish: (data) => {
+        $("log").innerHTML = `claim tx: <code>${data.txId}</code> &mdash; <a href="https://explorer.hiro.so/txid/${data.txId}?chain=mainnet" target="_blank">explorer</a>`;
+      },
+    });
+  };
+</script>
+</body>
+</html>
