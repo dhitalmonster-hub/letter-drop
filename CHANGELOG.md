@@ -8,3 +8,4 @@
 - 2026-05-12 — housekeeping pass (4vzp)
 - 2026-05-12 — minor cleanup and polish (i5of)
 - 2026-05-12 — small doc improvements (d6hm)
+- 2026-05-12 — refresh build metadata (mks2)
