@@ -4,3 +4,5 @@
 - 2026-05-12 — routine maintenance (ghap)
 - 2026-05-12 — small wording fixes (7wnp)
 - 2026-05-12 — tidy up notes (0gla)
+- 2026-05-12 — refresh build metadata (xjhi)
+- 2026-05-12 — housekeeping pass (4vzp)
