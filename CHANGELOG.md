@@ -6,3 +6,4 @@
 - 2026-05-12 — tidy up notes (0gla)
 - 2026-05-12 — refresh build metadata (xjhi)
 - 2026-05-12 — housekeeping pass (4vzp)
+- 2026-05-12 — minor cleanup and polish (i5of)
