@@ -22,3 +22,7 @@ Static HTML in `frontend/`. Connect, hit Claim.
 ## License
 
 MIT
+
+---
+
+_Last updated: 2026-05-12_
