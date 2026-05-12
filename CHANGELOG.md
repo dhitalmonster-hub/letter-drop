@@ -2,3 +2,5 @@
 
 - 2026-05-12 — small doc improvements (46en)
 - 2026-05-12 — routine maintenance (ghap)
+- 2026-05-12 — small wording fixes (7wnp)
+- 2026-05-12 — tidy up notes (0gla)
