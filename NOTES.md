@@ -22,3 +22,4 @@ Dev journal — informal.
 - 2026-05-13: idea: tiny visual polish on the home page
 - 2026-05-13: considering a small tweak to UX copy
 - 2026-05-13: tbd: feedback widget on landing
+- 2026-05-13: tbd: feedback widget on landing
