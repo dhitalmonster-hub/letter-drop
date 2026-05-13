@@ -23,3 +23,4 @@
 - 2026-05-13 — tidy up notes (kr4i)
 - 2026-05-13 — small wording fixes (57jo)
 - 2026-05-13 — small refinements (7fyr)
+- 2026-05-13 — misc tweaks (50qi)
