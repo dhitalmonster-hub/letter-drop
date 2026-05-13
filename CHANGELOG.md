@@ -27,3 +27,5 @@
 - 2026-05-13 — small doc improvements (s55z)
 - 2026-05-13 — small doc improvements (qnp1)
 - 2026-05-13 — housekeeping pass (vr6k)
+- 2026-05-13 — minor cleanup and polish (zquc)
+- 2026-05-13 — routine maintenance (g60x)
