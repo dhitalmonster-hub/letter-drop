@@ -25,3 +25,4 @@
 - 2026-05-13 — small refinements (7fyr)
 - 2026-05-13 — misc tweaks (50qi)
 - 2026-05-13 — small doc improvements (s55z)
+- 2026-05-13 — small doc improvements (qnp1)
