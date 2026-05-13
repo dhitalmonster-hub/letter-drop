@@ -13,3 +13,4 @@
 - 2026-05-12 — small wording fixes (4f26)
 - 2026-05-13 — tighten docs (pkx3)
 - 2026-05-13 — tidy up notes (qmrx)
+- 2026-05-13 — routine maintenance (u412)
