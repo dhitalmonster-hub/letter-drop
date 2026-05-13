@@ -15,3 +15,4 @@
 - 2026-05-13 — tidy up notes (qmrx)
 - 2026-05-13 — routine maintenance (u412)
 - 2026-05-13 — housekeeping pass (aqe2)
+- 2026-05-13 — tighten docs (1ppx)
