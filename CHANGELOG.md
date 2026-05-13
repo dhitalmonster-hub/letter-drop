@@ -20,3 +20,4 @@
 - 2026-05-13 — refresh build metadata (8al3)
 - 2026-05-13 — tighten docs (67o4)
 - 2026-05-13 — tidy up notes (ee53)
+- 2026-05-13 — tidy up notes (kr4i)
