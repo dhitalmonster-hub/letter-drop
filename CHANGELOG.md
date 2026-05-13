@@ -11,3 +11,4 @@
 - 2026-05-12 — refresh build metadata (mks2)
 - 2026-05-12 — housekeeping pass (gh1u)
 - 2026-05-12 — small wording fixes (4f26)
+- 2026-05-13 — tighten docs (pkx3)
