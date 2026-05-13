@@ -37,3 +37,4 @@ Dev journal — informal.
 - 2026-05-13: considering a small tweak to UX copy
 - 2026-05-13: micro-task: align dates in changelog format
 - 2026-05-13: todo: better empty-state copy
+- 2026-05-13: tbd: feedback widget on landing
