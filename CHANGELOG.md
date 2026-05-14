@@ -34,3 +34,4 @@
 - 2026-05-14 — small refinements (rs5m)
 - 2026-05-14 — small wording fixes (9f83)
 - 2026-05-14 — minor cleanup and polish (n23e)
+- 2026-05-14 — refresh build metadata (f6pl)
