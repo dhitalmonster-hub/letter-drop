@@ -40,3 +40,6 @@ Dev journal — informal.
 - 2026-05-13: tbd: feedback widget on landing
 - 2026-05-14: reminder: keep docs in sync with on-chain calls
 - 2026-05-14: todo: review error messages for clarity
+- 2026-05-14: reminder: keep docs in sync with on-chain calls
+- 2026-05-14: considering a small tweak to UX copy
+- 2026-05-14: thought: maybe a small "how it works" section
