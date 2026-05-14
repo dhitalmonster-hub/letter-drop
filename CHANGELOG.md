@@ -31,3 +31,4 @@
 - 2026-05-13 — routine maintenance (g60x)
 - 2026-05-13 — minor cleanup and polish (vt1s)
 - 2026-05-13 — refresh build metadata (huqh)
+- 2026-05-14 — small refinements (rs5m)
