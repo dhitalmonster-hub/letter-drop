@@ -51,3 +51,4 @@ Dev journal — informal.
 - 2026-05-14: micro-task: align dates in changelog format
 - 2026-05-14: note: keep the frontend layout untouched for now
 - 2026-05-15: reminder: keep docs in sync with on-chain calls
+- 2026-05-15: thinking about cleanup of contract entry point
