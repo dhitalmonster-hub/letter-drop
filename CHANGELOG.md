@@ -37,3 +37,4 @@
 - 2026-05-14 — refresh build metadata (f6pl)
 - 2026-05-15 — small refinements (jcem)
 - 2026-05-15 — tighten docs (t29o)
+- 2026-05-15 — routine maintenance (uqns)
