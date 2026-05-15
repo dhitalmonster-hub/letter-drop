@@ -38,3 +38,4 @@
 - 2026-05-15 — small refinements (jcem)
 - 2026-05-15 — tighten docs (t29o)
 - 2026-05-15 — routine maintenance (uqns)
+- 2026-05-15 — minor cleanup and polish (45od)
