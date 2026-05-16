@@ -41,3 +41,4 @@
 - 2026-05-15 — minor cleanup and polish (45od)
 - 2026-05-15 — small doc improvements (0imj)
 - 2026-05-16 — small doc improvements (0iho)
+- 2026-05-16 — small refinements (8n4j)
