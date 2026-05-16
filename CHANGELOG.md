@@ -42,3 +42,5 @@
 - 2026-05-15 — small doc improvements (0imj)
 - 2026-05-16 — small doc improvements (0iho)
 - 2026-05-16 — small refinements (8n4j)
+- 2026-05-16 — small refinements (aj79)
+- 2026-05-16 — housekeeping pass (6tr5)
