@@ -46,3 +46,4 @@
 - 2026-05-16 — housekeeping pass (6tr5)
 - 2026-05-16 — misc tweaks (kmml)
 - 2026-05-16 — small doc improvements (cmy8)
+- 2026-05-16 — minor cleanup and polish (fu4j)
