@@ -44,3 +44,4 @@
 - 2026-05-16 — small refinements (8n4j)
 - 2026-05-16 — small refinements (aj79)
 - 2026-05-16 — housekeeping pass (6tr5)
+- 2026-05-16 — misc tweaks (kmml)
