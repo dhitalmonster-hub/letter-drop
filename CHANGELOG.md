@@ -48,3 +48,5 @@
 - 2026-05-16 — small doc improvements (cmy8)
 - 2026-05-16 — minor cleanup and polish (fu4j)
 - 2026-05-17 — minor cleanup and polish (luzf)
+- 2026-05-17 — minor cleanup and polish (v387)
+- 2026-05-17 — small doc improvements (tdi6)
