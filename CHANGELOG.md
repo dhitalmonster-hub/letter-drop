@@ -52,3 +52,4 @@
 - 2026-05-17 — small doc improvements (tdi6)
 - 2026-05-17 — tighten docs (cj4l)
 - 2026-05-17 — misc tweaks (qkof)
+- 2026-05-17 — small refinements (zdbz)
