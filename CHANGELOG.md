@@ -60,3 +60,4 @@
 - 2026-05-18 — refresh build metadata (pirq)
 - 2026-05-18 — routine maintenance (evt4)
 - 2026-05-18 — small refinements (jlko)
+- 2026-05-18 — routine maintenance (umqo)
