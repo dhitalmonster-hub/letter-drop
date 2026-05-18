@@ -56,3 +56,5 @@
 - 2026-05-17 — tidy up notes (ynff)
 - 2026-05-17 — small refinements (kfn4)
 - 2026-05-17 — routine maintenance (u4uf)
+- 2026-05-18 — refresh build metadata (8ewr)
+- 2026-05-18 — refresh build metadata (pirq)
