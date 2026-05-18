@@ -82,3 +82,4 @@ Dev journal — informal.
 - 2026-05-17: note: keep the frontend layout untouched for now
 - 2026-05-18: considering a small tweak to UX copy
 - 2026-05-18: todo: better empty-state copy
+- 2026-05-18: thinking about cleanup of contract entry point
