@@ -94,3 +94,4 @@ Dev journal — informal.
 - 2026-05-20: todo: better empty-state copy
 - 2026-05-20: todo: better empty-state copy
 - 2026-05-20: considering a small tweak to UX copy
+- 2026-05-20: todo: review error messages for clarity
