@@ -90,3 +90,4 @@ Dev journal — informal.
 - 2026-05-20: thinking about cleanup of contract entry point
 - 2026-05-20: micro-task: align dates in changelog format
 - 2026-05-20: note: keep the frontend layout untouched for now
+- 2026-05-20: considering a small tweak to UX copy
