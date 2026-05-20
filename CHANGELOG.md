@@ -62,3 +62,4 @@
 - 2026-05-18 — small refinements (jlko)
 - 2026-05-18 — routine maintenance (umqo)
 - 2026-05-20 — housekeeping pass (0q8i)
+- 2026-05-20 — small refinements (kmcj)
