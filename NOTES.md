@@ -87,3 +87,4 @@ Dev journal — informal.
 - 2026-05-20: thought: maybe a small "how it works" section
 - 2026-05-20: tbd: feedback widget on landing
 - 2026-05-20: thinking about cleanup of contract entry point
+- 2026-05-20: thinking about cleanup of contract entry point
