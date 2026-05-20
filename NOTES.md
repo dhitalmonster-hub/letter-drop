@@ -83,3 +83,5 @@ Dev journal — informal.
 - 2026-05-18: considering a small tweak to UX copy
 - 2026-05-18: todo: better empty-state copy
 - 2026-05-18: thinking about cleanup of contract entry point
+- 2026-05-20: reminder: keep docs in sync with on-chain calls
+- 2026-05-20: thought: maybe a small "how it works" section
