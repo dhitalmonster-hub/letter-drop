@@ -96,3 +96,4 @@ Dev journal — informal.
 - 2026-05-20: considering a small tweak to UX copy
 - 2026-05-20: todo: review error messages for clarity
 - 2026-05-20: idea: tiny visual polish on the home page
+- 2026-05-21: thought: maybe a small "how it works" section
