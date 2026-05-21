@@ -71,3 +71,4 @@
 - 2026-05-21 — misc tweaks (c3m3)
 - 2026-05-21 — tidy up notes (lws4)
 - 2026-05-21 — tighten docs (abi8)
+- 2026-05-21 — small wording fixes (qp5n)
