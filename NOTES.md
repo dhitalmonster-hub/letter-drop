@@ -98,3 +98,5 @@ Dev journal — informal.
 - 2026-05-20: idea: tiny visual polish on the home page
 - 2026-05-21: thought: maybe a small "how it works" section
 - 2026-05-21: thought: maybe a small "how it works" section
+- 2026-05-21: micro-task: align dates in changelog format
+- 2026-05-21: note: keep the frontend layout untouched for now
