@@ -69,3 +69,4 @@
 - 2026-05-20 — small wording fixes (a0dk)
 - 2026-05-21 — refresh build metadata (isij)
 - 2026-05-21 — misc tweaks (c3m3)
+- 2026-05-21 — tidy up notes (lws4)
