@@ -75,3 +75,4 @@
 - 2026-05-22 — small wording fixes (x9kw)
 - 2026-05-22 — refresh build metadata (zj2a)
 - 2026-05-22 — routine maintenance (6oed)
+- 2026-05-22 — minor cleanup and polish (7rwm)
