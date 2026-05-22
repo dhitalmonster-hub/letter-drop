@@ -101,3 +101,4 @@ Dev journal — informal.
 - 2026-05-21: micro-task: align dates in changelog format
 - 2026-05-21: note: keep the frontend layout untouched for now
 - 2026-05-21: note: keep the frontend layout untouched for now
+- 2026-05-22: idea: tiny visual polish on the home page
