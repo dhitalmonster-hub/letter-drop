@@ -78,3 +78,4 @@
 - 2026-05-22 — minor cleanup and polish (7rwm)
 - 2026-05-23 — tighten docs (5lan)
 - 2026-05-23 — minor cleanup and polish (ly1l)
+- 2026-05-23 — tighten docs (dj6w)
