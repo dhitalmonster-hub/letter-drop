@@ -109,3 +109,4 @@ Dev journal — informal.
 - 2026-05-23: thought: maybe a small "how it works" section
 - 2026-05-23: reminder: keep docs in sync with on-chain calls
 - 2026-05-23: todo: better empty-state copy
+- 2026-05-23: idea: tiny visual polish on the home page
