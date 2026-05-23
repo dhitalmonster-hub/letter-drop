@@ -79,3 +79,4 @@
 - 2026-05-23 — tighten docs (5lan)
 - 2026-05-23 — minor cleanup and polish (ly1l)
 - 2026-05-23 — tighten docs (dj6w)
+- 2026-05-23 — tidy up notes (8az0)
