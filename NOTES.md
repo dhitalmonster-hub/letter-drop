@@ -111,3 +111,5 @@ Dev journal — informal.
 - 2026-05-23: todo: better empty-state copy
 - 2026-05-23: idea: tiny visual polish on the home page
 - 2026-05-23: todo: better empty-state copy
+- 2026-05-25: tbd: feedback widget on landing
+- 2026-05-25: tbd: feedback widget on landing
