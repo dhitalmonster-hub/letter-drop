@@ -81,3 +81,4 @@
 - 2026-05-23 — tighten docs (dj6w)
 - 2026-05-23 — tidy up notes (8az0)
 - 2026-05-23 — small refinements (xmp1)
+- 2026-05-25 — small wording fixes (az33)
