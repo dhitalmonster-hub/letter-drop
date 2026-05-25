@@ -83,3 +83,4 @@
 - 2026-05-23 — small refinements (xmp1)
 - 2026-05-25 — small wording fixes (az33)
 - 2026-05-25 — small wording fixes (ldc8)
+- 2026-05-25 — minor cleanup and polish (ro7w)
