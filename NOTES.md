@@ -119,3 +119,4 @@ Dev journal — informal.
 - 2026-05-29: todo: better empty-state copy
 - 2026-05-29: micro-task: align dates in changelog format
 - 2026-05-29: reminder: keep docs in sync with on-chain calls
+- 2026-05-29: note: keep the frontend layout untouched for now
