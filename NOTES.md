@@ -116,3 +116,5 @@ Dev journal — informal.
 - 2026-05-25: tbd: feedback widget on landing
 - 2026-05-25: thought: maybe a small "how it works" section
 - 2026-05-25: thinking about cleanup of contract entry point
+- 2026-05-29: todo: better empty-state copy
+- 2026-05-29: micro-task: align dates in changelog format
