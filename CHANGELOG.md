@@ -88,3 +88,4 @@
 - 2026-05-29 — tidy up notes (p5fi)
 - 2026-05-29 — tidy up notes (9z7e)
 - 2026-05-29 — small doc improvements (h0i1)
+- 2026-05-29 — small refinements (luc7)
